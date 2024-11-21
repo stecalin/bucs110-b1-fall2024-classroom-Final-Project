@@ -5,7 +5,7 @@ def __init__(self, screen, image_path, x=100, y=100, speed=5):
         self.rect.x = x
         self.rect.y = y
         self.speed = speed
-  def __init__(self):
+def __init__(self):
 """
 docstring
 """
